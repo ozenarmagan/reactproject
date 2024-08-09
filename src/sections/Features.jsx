@@ -6,7 +6,7 @@ const Features = () => {
             <div className="container px-lg-5">
                     <div className="row gx-lg-5">
                     
-                    <Card title={"Özelleştirilmiş Baskı"} description={"Dilediğiniz görseli sizin için en canlı renklerle ürüne aktarıyoruz. Sevdiklerinize ve kendinize vereceğiniz en özel hediye."}/>
+                    <Card title={"Özelleştirilmiş Baskı"} description={"Dilediğiniz görseli, sizin için en canlı renklerle ürüne aktarıyoruz. Sevdiklerinize ve kendinize vereceğiniz en özel hediye."}/>
                     <Card title={"Özel Gün Tasarımları"} description={"Özel günler için hazır tasarımlarımıza göz atabilirsiniz. Özel tasarım için zamanım yok diyenler; sizi buraya alalım"}/>
                     <Card title={"Baskılı Kupa Bardaklar"} description={"Onlarca hazır tasarım arasından seçiminizi yapabilirsiniz."}/>
                     <Card title={"Baskılı Magnetler"} description={"Buzdolabınız artık sevdiğiniz görsellerle güzelleşecek."}/>
